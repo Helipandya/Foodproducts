@@ -21,8 +21,8 @@ const Populer = () => {
                                     <img src="img/food_item/food_item_1.png" alt="" />
                                 </div>
                                 <div className="single_blog_text">
-                                    <h3>Indian Burger</h3>
-                                    <p>Was brean shed moveth day yielding tree yielding day were female and </p>
+                                    <h3>Noodels</h3>
+                                    <p>crunchy-fried noodles with crispy texture.that heavenly brown sauce over that, with a bed of crispy noodles and a medley of crunchy veggies.It’s a perfect meal that has everything you need to fill you up and satisfy your Chinese food craving.</p>
                                     <Link to="/" className="btn_3">Read More <img src="img/icon/left_2.svg" alt="" /></Link>
                                 </div>
                             </div>
